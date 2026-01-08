@@ -1,8 +1,16 @@
 # BOTSv3-Incident-Analysis---COMP3010
 
-# Introduction
+# COMP 3010 Security Operations & Incident Management
+## Coursework 2 – BOTSv3 Incident Analysis and Presentation
+## Nathan Sheppard
 
- 
+
+# Table of Contents
+
+<img width="621" height="234" alt="image" src="https://github.com/user-attachments/assets/e2bc04ba-0ba6-4558-90c2-14146a42b229" />
+
+
+# Introduction
 
 This report presents an investigation and analysis of the BOTSv3 dataset. This is a security dataset created by Splunk, which can be used to investigate a cyber-attack on a fictional company called Frothly.  
 
@@ -163,6 +171,11 @@ Overall, SOC analysis proves to find vulnerabilities that the company needs to r
 [6] 	NullByte, “Linux Basics for the Aspiring Hacker: Archiving & Compressing Files,” NullByte, 13 November 2015. [Online]. Available: https://null-byte.wonderhowto.com/how-to/linux-basics-for-aspiring-hacker-archiving-compressing-files-0166153/. [Accessed 28 December 2025].
 
 [7] 	NHS, “Coinhive and Cryptojacking,” NHS, 12 October 2017. [Online]. Available: https://digital.nhs.uk/cyber-alerts/2017/cc-1699. [Accessed 30 December 2025].
+
+# Generative AI Declaration
+
+<img width="689" height="533" alt="image" src="https://github.com/user-attachments/assets/678be464-9a82-479d-bf56-67b59a0361da" />
+
 
 [8] 	L. A. Meyer, “How effective is multifactor authentication at deterring cyberattacks?,” Microsoft, n.d. May 2023. [Online]. Available: https://www.microsoft.com/en-us/research/publication/how-effective-is-multifactor-authentication-at-deterring-cyberattacks/. [Accessed 30 December 2025].
 
