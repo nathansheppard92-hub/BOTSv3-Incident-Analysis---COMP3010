@@ -172,11 +172,9 @@ Overall, SOC analysis proves to find vulnerabilities that the company needs to r
 
 [7] 	NHS, “Coinhive and Cryptojacking,” NHS, 12 October 2017. [Online]. Available: https://digital.nhs.uk/cyber-alerts/2017/cc-1699. [Accessed 30 December 2025].
 
+[8] 	L. A. Meyer, “How effective is multifactor authentication at deterring cyberattacks?,” Microsoft, n.d. May 2023. [Online]. Available: https://www.microsoft.com/en-us/research/publication/how-effective-is-multifactor-authentication-at-deterring-cyberattacks/. [Accessed 30 December 2025].
+
 # Generative AI Declaration
 
 <img width="689" height="533" alt="image" src="https://github.com/user-attachments/assets/678be464-9a82-479d-bf56-67b59a0361da" />
-
-
-[8] 	L. A. Meyer, “How effective is multifactor authentication at deterring cyberattacks?,” Microsoft, n.d. May 2023. [Online]. Available: https://www.microsoft.com/en-us/research/publication/how-effective-is-multifactor-authentication-at-deterring-cyberattacks/. [Accessed 30 December 2025].
-
 
