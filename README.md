@@ -10,6 +10,8 @@
 
 # Introduction
 
+Showcase Video: https://www.youtube.com/watch?v=U8BXT928EbI
+
 This report presents an investigation and analysis of the BOTSv3 dataset. This is a security dataset created by Splunk, which can be used to investigate a cyber-attack on a fictional company called Frothly.  
 
 This report will document the relevance of SOC tiers and incident handling methodologies in the context of this scenario. SOCs are responsible for analysing and responding to threats to a company constantly ​[1]​, which will improve a company's threat intelligence and ability to respond to cyber-attacks quickly, to minimise damage. Identifying suspicious activity or potential misconfigurations in a network is crucial for SOC analysts, to protect a company and decrease the likelihood of cyber-attacks.  
