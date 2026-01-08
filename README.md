@@ -151,12 +151,19 @@ Overall, SOC analysis proves to find vulnerabilities that the company needs to r
 # References
 
 [1] 	B. Buckman, “What is a SOC? Why Every Company Needs One (Yesterday),” Huntress, 12 August 2025. [Online]. Available: https://www.huntress.com/soc-guide/what-is-soc?hnt=7owbagafxvsq. [Accessed 26 December 2025].
+
 [2] 	I. Assaf, “SOC Analyst Tier 1 vs. Tier 2 vs. Tier 3: Key Differences & Responsibilities,” Radiant, 17 January 2025. [Online]. Available: https://radiantsecurity.ai/learn/soc-tier-1-vs-tier-2-vs-tier-3/. [Accessed 26 December 2025].
+
 [3] 	W. E. Team, “Tier 1 SOC analysts : Responsibilities and career path,” Wiz, 6 November 2025. [Online]. Available: https://www.wiz.io/academy/cloud-careers/soc-analyst-tier-1. [Accessed 27 December 2025].
+
 [4] 	paloalto, “Security Operations Center (SOC) Roles and Responsibilities,” paloalto, n.d.. [Online]. Available: https://www.paloaltonetworks.co.uk/cyberpedia/soc-roles-and-responsibilities. [Accessed 27 December 2025].
+
 [5] 	N. C. S. Centre, “Device security guidance,” National Cyber Security Centre, n.d.. [Online]. Available: https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/obsolete-products. [Accessed 28 December 2025].
+
 [6] 	NullByte, “Linux Basics for the Aspiring Hacker: Archiving & Compressing Files,” NullByte, 13 November 2015. [Online]. Available: https://null-byte.wonderhowto.com/how-to/linux-basics-for-aspiring-hacker-archiving-compressing-files-0166153/. [Accessed 28 December 2025].
+
 [7] 	NHS, “Coinhive and Cryptojacking,” NHS, 12 October 2017. [Online]. Available: https://digital.nhs.uk/cyber-alerts/2017/cc-1699. [Accessed 30 December 2025].
+
 [8] 	L. A. Meyer, “How effective is multifactor authentication at deterring cyberattacks?,” Microsoft, n.d. May 2023. [Online]. Available: https://www.microsoft.com/en-us/research/publication/how-effective-is-multifactor-authentication-at-deterring-cyberattacks/. [Accessed 30 December 2025].
 
 
