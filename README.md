@@ -1,5 +1,3 @@
-# BOTSv3-Incident-Analysis---COMP3010
-
 # COMP 3010 Security Operations & Incident Management
 ## Coursework 2 – BOTSv3 Incident Analysis and Presentation
 ## Nathan Sheppard
